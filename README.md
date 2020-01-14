@@ -11,7 +11,7 @@ This is a project to demonstrate a regression analysis implemented in Python. I 
 
 I plotted a heatmap to see correlations.
 
-![Heatmap](base_correlations.png)
+![Heatmap](base_correlation.png)
 
 I first ran a base model without dropping correlated features:
 
